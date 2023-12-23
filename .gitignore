@@ -1,1 +1,4 @@
 /hcipher/
+/__pycahce__/
+*.pyc
+*.log
